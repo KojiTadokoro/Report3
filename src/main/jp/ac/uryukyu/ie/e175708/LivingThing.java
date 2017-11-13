@@ -16,7 +16,7 @@ public class LivingThing {
     public boolean isDead() {
         return dead;
     }
-
+    
     public String getName() {
         return name;
     }
